@@ -1,0 +1,13 @@
+/build
+/release
+/debug
+*.iml
+.gradle
+.idea
+.DS_Store
+local.properties
+bin/
+gen/
+build/
+release/
+debug/
